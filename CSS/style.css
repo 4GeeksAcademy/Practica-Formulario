@@ -1,0 +1,32 @@
+.card {
+    margin: 80px;
+    height: auto;
+    font-weight: bold;
+}
+.col-12 { 
+    padding-left: 91.3%;
+}
+#select {
+    display: flex;
+    /* border: 1px solid red; */
+    padding: 5px;
+    width: 255px;
+    height: auto;
+    border-radius: 5px;
+    background-color: #AEAEAE;
+}
+i {
+    margin-right: 10px;
+    font-size: 25px;
+}
+.form-check-input {
+    
+    font-size: 17px;
+}
+.mess {
+    margin-bottom: 15px;
+}
+.last {
+    font-size: 13px;
+    color: gray;
+}
